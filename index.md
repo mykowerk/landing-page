@@ -2,6 +2,6 @@
 title: MycoWerk - a better life through fungal biopolymers!
 ---
 
-## Keep delivering quality formulations without aditional regulatory burdens!
-### Get vegan, consistent and quality-assured fungal chitosans made in Europe.
-We provide samples to help you integrate our chitosans into your formulations. No strings attached.
+## Lore Ipsum!
+### Wasu wasol?
+This is just a test. Comisar Gereon Rath is gone. he will be gone until he returns. I repeat: Comisar Gereon Rath is gone.
