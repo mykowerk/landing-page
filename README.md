@@ -1,2 +1,2 @@
 # landing-page
-Our first landing page iteration
+MycoWer`s first landing page iteration
