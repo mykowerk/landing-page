@@ -1,3 +1,30 @@
+# NPM
+node_modules
+npm-debug.log
+
+# Jekyll output #
+#################
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+
+# OS temp files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+tmp
+Desktop.ini
+Thumbs.db
+.idea
+
 # Compiled source #
 ###################
 *.com
@@ -25,22 +52,3 @@
 *.log
 *.sql
 *.sqlite
-
-# OS generated files #
-######################
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Jekyll output #
-#################
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-.bundle/
-vendor/

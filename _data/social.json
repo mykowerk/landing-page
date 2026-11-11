@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Github",
+    "link": "https://www.linkedin.com/company/mycowerk/",
+    "image": "images/social/github.svg"
+  },
+  {
+      "name": "Email",
+      "link": "mailto:info@mycowerk.com",
+      "image": "images/social/email.svg"
+  }
+]

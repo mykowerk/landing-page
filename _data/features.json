@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Free Samples",
+    "description": "New clients receive a free sample for their formulations.",
+    "image": {
+      "url": "images/features/noun_vegan.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Certified Scientist",
+    "description": "All members of our team are certified scientist.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Full Regulatory Compliance",
+    "description": "We stay up to date on the latest changes to the regulatory frameworks affecting the cosmetic industry.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
