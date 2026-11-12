@@ -15,5 +15,5 @@ MycoWer`s first landing page iteration.
 
 This website is possible due to the generous support of:
 
-![EU w: 150](/images/logo/EU.png)
-![EU w: 150](/images/logo/berlin.png)
+<img src="/images/logo/EU.png" alt="EU" width="150" />
+<img src="/images/logo/berlin.png" alt="BE" width="150" />
