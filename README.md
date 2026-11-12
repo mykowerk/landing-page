@@ -15,5 +15,5 @@ MycoWer`s first landing page iteration.
 
 This website is possible due to the generous support of:
 
-![](/Users/juanduenas/Documents/lp_mw/landing-page/images/logo/EU.png)
-![](/Users/juanduenas/Documents/lp_mw/landing-page/images/logo/berlin.png)
+![EU](/images/logo/EU.png)
+![EU](/images/logo/berlin.png)
