@@ -6,5 +6,5 @@ weight: 3
 
 Means we ensure a consistent product, excellent quality and full traceability
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Pilz5](/images/Isolates/Pilz5.jpg)
 

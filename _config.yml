@@ -3,10 +3,10 @@ permalink: pretty
 title: 'MycoWerk'
 
 logo:
-  mobile: "images/logo/logo_mw.png"
+  mobile: "images/logo/mw_wodmark_handy.svg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo_mw.png"
+  desktop: "images/logo/mw_wodmark_web.svg"
   desktop_height: "32px"
   desktop_width: "120px"
 

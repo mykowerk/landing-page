@@ -6,5 +6,5 @@ weight: 1
 
 Means it does not comes from animals
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Isolate7](/images/Isolates/pilz7.jpg)
 
