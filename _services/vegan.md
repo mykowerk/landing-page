@@ -6,5 +6,5 @@ weight: 1
 
 Means it does not comes from animals
 
-![Isolate7](/images/Isolates/pilz7.jpg)
+![Isolate7](images/Isolates/pilz4.jpg)
 

@@ -6,5 +6,5 @@ weight: 2
 
 Means you will not have an anafylactic shock
 
-![Accounting Services](/images/Isolates/pilz6.jpg)
+![Pilz6](images/Isolates/pilz1.jpg)
 

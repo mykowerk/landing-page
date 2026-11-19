@@ -2,7 +2,7 @@
 title: MycoWerk
 layout: home
 description: Landing page based on Jekyll Serif free theme.
-intro_image: "images/Isolates/pilz8.jpg"
+intro_image: "images/Isolates/team1.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
