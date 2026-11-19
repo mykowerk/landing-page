@@ -6,5 +6,5 @@ weight: 3
 
 Means we ensure a consistent product, excellent quality and full traceability
 
-![Pilz5](images/Isolates/pilz3.jpg)
+![pilz4]({{ "/images/Isolates/pilz4.jpg" | relative_url }})
 

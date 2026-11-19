@@ -6,5 +6,5 @@ weight: 1
 
 Means it does not comes from animals
 
-![Isolate7](images/Isolates/pilz4.jpg)
+![pilz1]({{ "/images/Isolates/pilz1.jpg" | relative_url }})
 
